@@ -1,11 +1,5 @@
 Assignment #2 
 
-Status of the porject: 
-Now the a2rchat program can accomplish all the requirement in Phase 2
-[Server side shows the output in order to easily follow the condition of server]
-
-
-****** VERY IMPORTANT ******
 Instruction of running program
 
 1. 
