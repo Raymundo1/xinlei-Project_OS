@@ -37,6 +37,8 @@
 
 ---
 ### Program Basic Skeleton
+![a3-skeleton](https://github.com/Raymundo1/xinlei-Project_OS/blob/master/img/a3-img1.png)
+
 ---
 ### Acknowledgements
 * Advanced Programming in the UNIX® Environment by W. Richard Stevens and Stephen A. Rago
