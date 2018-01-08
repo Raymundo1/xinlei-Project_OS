@@ -1,16 +1,18 @@
-Assignment #2 
+## Assignment #2 
 
-Instruction of running program
+---
+### Instruction of running program
 
-1. 
-	[python = python2]
-	There is a fifo folder, which contains a "mkfifo.py" python script file.
-		And before you running the a2rchat program, you have to run the python2 file
+1.
+
+	 [python = python2]
+	 
+	 There is a fifo folder, which contains a "mkfifo.py" python script file.
+	 	And before you running the a2rchat program, you have to run the python2 file
 		by "python mkfifo". 
 	
-	** Once you run the mkfifo, it will shows "Please enter you baseName: ", and you have to 
-		enter the baseName you want. Then it will automatically create the FIFOs for you.
-
+	 Once you run the mkfifo, it will shows "Please enter you baseName: ", and you have to 
+	 	enter the baseName you want. Then it will automatically create the FIFOs for you.
 
 2.
 
@@ -20,11 +22,13 @@ Instruction of running program
 	It may occurs some issues, when you do the wrong order
 
 
-3. 
+3.
+
 	You have to type "make" first to get a2rchat program first
 
 
-4.  
+4.
+
 	Running server by typing:
 		./a2rchat -s baseName-part number-part
 
@@ -39,7 +43,19 @@ Instruction of running program
 
 
 5. 
+
 	Username CAN NOT have space inside
+	
+	
+---
+
+### Program Basic Skeleton
+
+---
+### Acknowledgements
+* Advanced Programming in the UNIX® Environment by W. Richard Stevens and Stephen A. Rago
+* [Get the current time in C by mingos](https://stackoverflow.com/questions/5141960/get-the-current-time-in-c)
+* [Send signal to process by Balakrishnan Mariyappan](https://www.thegeekstuff.com/2011/02/send-signal-to-process/)
 
 
 
