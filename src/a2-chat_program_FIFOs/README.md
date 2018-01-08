@@ -50,16 +50,13 @@
 ---
 
 ### Program Basic Skeleton
+![a2-skeleton](https://github.com/Raymundo1/xinlei-Project_OS/blob/master/img/a2-img1.png)
 
 ---
 ### Acknowledgements
 * Advanced Programming in the UNIX® Environment by W. Richard Stevens and Stephen A. Rago
-* [Get the current time in C by mingos](https://stackoverflow.com/questions/5141960/get-the-current-time-in-c)
-* [Send signal to process by Balakrishnan Mariyappan](https://www.thegeekstuff.com/2011/02/send-signal-to-process/)
-
-
-
-
+* [lockf() function](http://man7.org/linux/man-pages/man3/lockf.3.html)
+* [combine multiple string by Jacob](https://stackoverflow.com/questions/5889880/better-way-to-concatenate-multiple-strings-in-c)
 
 
 
