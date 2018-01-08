@@ -1,6 +1,6 @@
 /*
     Main part
-    Author: Xinlei Chen
+    Author: Ray Chen
     Last Modified: Oct. 15, 2017
 */
 

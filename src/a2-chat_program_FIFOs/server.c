@@ -1,6 +1,6 @@
 /*
     server part
-    Author: Xinlei Chen
+    Author: Ray Chen
     Last Modified: Oct. 21, 2017
 */
 

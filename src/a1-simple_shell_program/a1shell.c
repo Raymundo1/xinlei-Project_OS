@@ -1,6 +1,6 @@
 /*
 	a1shell program
-	Author: Xinlei Chen
+	Author: Ray Chen
 	Last modified time: October 2, 2017
 */
 #include <stdio.h>
