@@ -7,6 +7,7 @@
     
 ---    
 ### Program Basic Skeleton
+![a1-skeleton](https://github.com/Raymundo1/xinlei-Project_OS/blob/master/img/a1-img1.png)
 
 ---
 ### Acknowledgements
