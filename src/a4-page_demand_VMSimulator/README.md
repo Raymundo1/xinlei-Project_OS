@@ -32,6 +32,7 @@
 	
 ---
 ### Program Basic Skeleton
+![a4-skeleton](https://github.com/Raymundo1/xinlei-Project_OS/blob/master/img/a4-img1.png)
 
 ---
 ### Acknowledgements
